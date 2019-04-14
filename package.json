@@ -1,0 +1,30 @@
+{
+  "name": "reactD3LineChart",
+  "version": "1.0.0",
+  "description": "Konux coding test",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "d3": "^5.9.2",
+    "express": "^4.16.4",
+    "express-favicon": "^2.0.1",
+    "node-sass": "4.10.0",
+    "path": "^0.12.7",
+    "react": "16.5.2",
+    "react-dom": "16.5.2",
+    "react-scripts": "2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
