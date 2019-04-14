@@ -1,4 +1,6 @@
 #### Instructions to run the app
+
+## [Demo](https://reactd3linechart-zmxvctngkz.now.sh/)
 ## Step 1 - Dependencies
 
 You will need:
@@ -20,7 +22,7 @@ $ https://github.com/TanveerAliS/react-d3-linechart.git
 ## Step 3 - Install dependencies
 
 ```sh
-$ cd react-d3-linechart
+$ cd react-d3-linechart-master
 $ npm install
 ```
 
@@ -34,11 +36,6 @@ Then run it
 
 ```sh
 npm start
-```
-## Run an test
-
-```sh
-npm run test
 ```
 
 Your browser should open up to a running app that looks like this:
